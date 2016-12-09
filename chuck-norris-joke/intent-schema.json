@@ -1,0 +1,13 @@
+{
+	"intents": [
+		{
+			"intent": "GetJoke"
+		},
+		{
+			"intent": "AMAZON.HelpIntent"
+		},
+		{
+			"intent": "AMAZON.StopIntent"
+		}
+	]
+}

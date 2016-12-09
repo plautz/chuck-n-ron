@@ -1,0 +1,11 @@
+GetQuote a quote
+GetQuote get me a quote
+GetQuote get a quote
+GetQuote say a quote
+GetQuote say something
+GetQuote quote himself
+GetQuote a line
+GetQuote say a line
+GetQuote get me a funny quote
+GetQuote say something funny
+GetQuote say a funny quote

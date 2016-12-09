@@ -1,0 +1,13 @@
+{
+	"intents": [
+		{
+			"intent": "GetQuote"
+		},
+		{
+			"intent": "AMAZON.HelpIntent"
+		},
+		{
+			"intent": "AMAZON.StopIntent"
+		}
+	]
+}

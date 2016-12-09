@@ -1,0 +1,8 @@
+GetJoke a joke
+GetJoke get a joke
+GetJoke get me a joke
+GetJoke tell me a joke
+GetJoke tell me a joke about himself
+GetJoke say something funny
+GetJoke say something funny about himself
+GetJoke to tell a Chuck Norris joke
