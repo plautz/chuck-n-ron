@@ -7,6 +7,6 @@ The Chuck Norris app tells cheesy Chuck Norris jokes and the Ron Swanson quoter 
 
 ---
 
-[**Chuck Norris API**](https://api.icndb.com/jokes/random)
+[**Chuck Norris API**](http://www.icndb.com/api/)
 
-[**Ron Swanson API**](https://ron-swanson-quotes.herokuapp.com/v2/quotes)
+[**Ron Swanson API**](https://github.com/jamesseanwright/ron-swanson-quotes)
